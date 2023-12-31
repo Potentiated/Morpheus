@@ -23,6 +23,8 @@ NOTE: In the above command, replace "/path/to/your/morpheus.deb" with your path 
 b227e7bcb21ec9e8e2b4bf9510a2e1f224953fe5
 - Version: morpheus_0.0.5_amd64.deb
 
+Linux Debian Node Installation Guide:
+https://docs.google.com/document/d/1PLRxWIKppNHIy461ZeHHP1Lz6ZC7rcbSRyD7SJCkyKg/edit
 ---------
 ## Introduction 
 The Smart Agent concept of connecting LLMs and AI Agents to wallets, Dapps, & smart contracts promises to open the world of Web3 to everyone. Chatting in normal language with your Smart Agent and having it understand the question or task, is similar to how Google's search engine opened the early internet up to the general public.
